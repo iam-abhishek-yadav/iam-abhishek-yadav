@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **AWS / React / Node**
 
-- 👨‍💻 All of my projects are available at [https://github.com/iam-abhishek-yadav](https://github.com/iam-abhishek-yadav)
-
 - 💬 Ask me about **React / JavaScript / Kubernetes**
 
 - 📫 Reach me at **abhishekyadav.recs@gmail.com**
