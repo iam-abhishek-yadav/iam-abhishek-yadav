@@ -8,33 +8,34 @@ Juggling between servers and stacks. DevOps by day, FullStack learner by night
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Rust" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="30" height="30"/> </a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Rust" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ##### Web Dev
 
-<a href="" target="_blank" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="CSS" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Bootstrap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="HTML" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="CSS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="" target="_blank" title="Tailwind" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/></a>
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Redux" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="" width="30" height="30"/></a> &nbsp;&nbsp;
+<a href="" target="_blank" title="NextJs" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="ExpressJs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="ExpressJs" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
 
 ##### DevOps
 
+<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="GitLab" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Linux" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Bash" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Jenkins" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="ArgoCD" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Kubernetes" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Amazon Web Services" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Google Cloud Platform" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Linux" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Bash" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Jenkins" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### You can also find me on ...
 
