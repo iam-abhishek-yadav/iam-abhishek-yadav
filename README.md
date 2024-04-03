@@ -1,5 +1,6 @@
-## Hi 👋, I'm Abhishek
-Juggling between servers and stacks. DevOps by day, FullStack learner by night
+## Hi there! 👋
+
+I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 
 ### Tech Stack
 
@@ -8,7 +9,6 @@ Juggling between servers and stacks. DevOps by day, FullStack learner by night
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Rust" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ##### Web Dev
 
@@ -20,8 +20,11 @@ Juggling between servers and stacks. DevOps by day, FullStack learner by night
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ExpressJs" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="MySQL" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="PostgreSQL" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Redis" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-
+<a href="" target="_blank" title="Nginx" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ##### DevOps
 
@@ -36,6 +39,18 @@ Juggling between servers and stacks. DevOps by day, FullStack learner by night
 <a href="" title="Kubernetes" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Amazon Web Services" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Google Cloud Platform" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+
+### Projects
+
+#### Rock Paper Scissors Game ([Play](https://rockpaperscissors-nine-sage.vercel.app/) &nbsp; &nbsp; [Code](https://github.com/iam-abhishek-yadav/rockpaperscissors))
+- A fun and interactive Rock Paper Scissors game built with React. It allows users to play against the computer and tracks the score. The game is deployed on Vercel for easy access.
+
+#### Notes App ([Code](https://github.com/iam-abhishek-yadav/notesApp))
+- A simple notes app built with MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, read, update, and delete notes. The app includes user authentication with secure login, logout, and sign-up functionality. React Router is integrated for seamless navigation.
+
+#### AWS VPC using Terraform ([Code](https://github.com/iam-abhishek-yadav/VPC_with_Terraform_And_Github_Actions))
+- Terraform code for provisioning an AWS Virtual Private Cloud (VPC) infrastructure. It automates the creation of VPC components such as subnets, route tables, and internet gateways. GitHub Actions are used for CI/CD to ensure infrastructure as code deployment.
+
 
 ### You can also find me on ...
 
