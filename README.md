@@ -2,6 +2,8 @@
 
 I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 
+- 🔭 I’m currently working on [Chess App](https://github.com/iam-abhishek-yadav/chess)
+
 ### Tech Stack
 
 ##### Languages
@@ -9,6 +11,7 @@ I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 <a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="TypeScript" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Java" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Python" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
 
 ##### Web Dev
 
@@ -20,7 +23,6 @@ I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ExpressJs" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="MySQL" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="PostgreSQL" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Redis" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -31,14 +33,14 @@ I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitLab" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Linux" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Bash" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Jenkins" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="ArgoCD" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Kubernetes" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Amazon Web Services" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Google Cloud Platform" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Linux" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Bash" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Jenkins" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="ArgoCD" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Kubernetes" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Amazon Web Services" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Google Cloud Platform" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ### Projects
 
@@ -46,7 +48,13 @@ I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 - A fun and interactive Rock Paper Scissors game built with React. It allows users to play against the computer and tracks the score. The game is deployed on Vercel for easy access.
 
 #### Notes App ([Code](https://github.com/iam-abhishek-yadav/notesApp))
-- A simple notes app built with MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, read, update, and delete notes. The app includes user authentication with secure login, logout, and sign-up functionality. React Router is integrated for seamless navigation.
+- A MERN stack note-taking application with CRUD functionality. Features secure user authentication and JWT-based access control, ensuring only authenticated users can manage their notes. Designed with a modern UI using TailwindCSS.
+
+#### Chess App ([Code](https://github.com/iam-abhishek-yadav/chess))
+- An online chess game developed with React, Node.js, and WebSockets. Supports real-time gameplay and communication. Includes game creation, move validation, and state management. Uses PostgreSQL and Prisma for data persistence.
+
+#### Medium App ([Code](https://github.com/iam-abhishek-yadav/medium) &nbsp; &nbsp; [Visit Site](https://medium-peach-gamma.vercel.app))
+- A blogging platform built with React, Express, and PostgreSQL. Enables users to create, publish, and share blog posts. Utilizes Prisma for data management and Cloudflare for performance and security.
 
 #### AWS VPC using Terraform ([Code](https://github.com/iam-abhishek-yadav/VPC_with_Terraform_And_Github_Actions))
 - Terraform code for provisioning an AWS Virtual Private Cloud (VPC) infrastructure. It automates the creation of VPC components such as subnets, route tables, and internet gateways. GitHub Actions are used for CI/CD to ensure infrastructure as code deployment.
