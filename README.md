@@ -2,7 +2,7 @@
 
 I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 
-- 🔭 I’m currently working on [Chess App](https://github.com/iam-abhishek-yadav/chess)
+- 🔭 I’m currently working on [Tasks App](https://github.com/iam-abhishek-yadav/tasks)
 
 ### Tech Stack
 
