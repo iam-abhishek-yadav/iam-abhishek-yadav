@@ -31,6 +31,7 @@ I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 <a href="" target="_blank" title="Postman" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Nginx" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Jest" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="nginx" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Playwright" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="nginx" width="30" height="30"/></a>&nbsp;&nbsp;
 
 ##### DevOps
 
@@ -47,9 +48,9 @@ I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 <a href="" target="_blank" title="Amazon Web Services" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="CloudFare" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
-### Projects
+### Mini Projects
 
-#### Rock Paper Scissors Game ([Play](https://rockpaperscissors-nine-sage.vercel.app/) &nbsp; &nbsp; [Code](https://github.com/iam-abhishek-yadav/rockpaperscissors))
+#### Rock Paper Scissors Game ([Code](https://github.com/iam-abhishek-yadav/mini-Projects/tree/main/rockpaperscissors))
 - A fun and interactive Rock Paper Scissors game built with React. It allows users to play against the computer and tracks the score. The game is deployed on Vercel for easy access.
 
 #### Notes App ([Code](https://github.com/iam-abhishek-yadav/notesApp))
@@ -58,7 +59,7 @@ I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 #### Chess App ([Code](https://github.com/iam-abhishek-yadav/chess))
 - An online chess game developed with React, Node.js, and WebSockets. Supports real-time gameplay and communication. Includes game creation, move validation, and state management. Uses PostgreSQL and Prisma for data persistence.
 
-#### Medium App ([Code](https://github.com/iam-abhishek-yadav/medium) &nbsp; &nbsp; [Visit Site](https://medium-peach-gamma.vercel.app))
+#### Medium App ([Code](https://github.com/iam-abhishek-yadav/medium))
 - A blogging platform built with React, Express, and PostgreSQL. Enables users to create, publish, and share blog posts. Utilizes Prisma for data management and Cloudflare for performance and security.
 
 #### AWS VPC using Terraform ([Code](https://github.com/iam-abhishek-yadav/VPC_with_Terraform_And_Github_Actions))
