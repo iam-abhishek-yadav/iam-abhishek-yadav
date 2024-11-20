@@ -22,6 +22,7 @@ I'm Abhishek Yadav, a DevOps Engineer & Full Stack Developer based in India.
 <a href="" target="_blank" title="Tailwind" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/></a>
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Redux Toolkit" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="Redux Toolkit" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="Zustand" rel="noreferrer"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Redux Toolkit" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="NextJs" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ExpressJs" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
