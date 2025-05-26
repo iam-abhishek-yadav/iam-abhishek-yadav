@@ -16,7 +16,7 @@
 ### 🚀 Featured Projects
 
 - 🧠 [**VerseHive**](https://github.com/iam-abhishek-yadav/versehive) – Full-stack AI prompt sharing platform [**Visit**](https://versehive.vercel.app/)
-- 💼 **MudraX** (WIP) – Secure Web3 wallet
+- 💼 [**MudraX**](https://github.com/iam-abhishek-yadav/MudraX) (WIP) – Secure Web3 wallet [**Visit**](https://mudra-x.vercel.app/)
 
 ---
 
